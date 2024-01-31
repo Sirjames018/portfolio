@@ -121,7 +121,6 @@ body{
     
     .cabecalho__menu{
      justify-content: center;
-        gap: 20px;
     }
 
     .apresentacao{
@@ -133,5 +132,12 @@ body{
         width: auto;
     }
 
+}
+
+@media (max-width: 575px){
+    .cabecalho__menu{
+        justify-content: center;
+        gap:30px
+       }
 }
 
