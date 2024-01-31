@@ -120,7 +120,8 @@ body{
     }
     
     .cabecalho__menu{
-     justify-content: center;   
+     justify-content: center;
+        width: auto;
     }
 
     .apresentacao{
